@@ -6,9 +6,9 @@ import 'dart:async';
 import 'dart:convert' show JsonEncoder;
 
 import 'package:flutter_driver/driver_extension.dart';
-import 'package:gallery/data/demos.dart';
-import 'package:gallery/l10n/gallery_localizations_en.dart';
-import 'package:gallery/main.dart' as gallery;
+import 'package:flutter_gallery/data/demos.dart';
+import 'package:flutter_gallery/l10n/gallery_localizations_en.dart';
+import 'package:flutter_gallery/main.dart' as gallery;
 
 Future<String> _handleMessages(String message) async {
   assert(message == 'demoDescriptions');

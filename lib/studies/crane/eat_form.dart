@@ -4,9 +4,9 @@
 
 import 'package:flutter/material.dart';
 
-import 'package:gallery/l10n/gallery_localizations.dart';
-import 'package:gallery/studies/crane/backlayer.dart';
-import 'package:gallery/studies/crane/header_form.dart';
+import 'package:flutter_gallery/l10n/gallery_localizations.dart';
+import 'package:flutter_gallery/studies/crane/backlayer.dart';
+import 'package:flutter_gallery/studies/crane/header_form.dart';
 
 class EatForm extends BackLayerItem {
   const EatForm({int index}) : super(index: 3);

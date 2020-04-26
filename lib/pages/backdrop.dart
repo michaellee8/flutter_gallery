@@ -9,12 +9,12 @@ import 'package:flare_flutter/flare_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter/services.dart';
-import 'package:gallery/constants.dart';
-import 'package:gallery/data/gallery_options.dart';
-import 'package:gallery/l10n/gallery_localizations.dart';
-import 'package:gallery/layout/adaptive.dart';
-import 'package:gallery/pages/home.dart';
-import 'package:gallery/pages/settings.dart';
+import 'package:flutter_gallery/constants.dart';
+import 'package:flutter_gallery/data/gallery_options.dart';
+import 'package:flutter_gallery/l10n/gallery_localizations.dart';
+import 'package:flutter_gallery/layout/adaptive.dart';
+import 'package:flutter_gallery/pages/home.dart';
+import 'package:flutter_gallery/pages/settings.dart';
 
 const double _settingsButtonWidth = 64;
 const double _settingsButtonHeightDesktop = 56;

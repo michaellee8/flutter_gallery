@@ -3,10 +3,10 @@
 // found in the LICENSE file.
 
 import 'package:flutter/material.dart';
-import 'package:gallery/data/demos.dart';
-import 'package:gallery/l10n/gallery_localizations.dart';
-import 'package:gallery/layout/adaptive.dart';
-import 'package:gallery/pages/demo.dart';
+import 'package:flutter_gallery/data/demos.dart';
+import 'package:flutter_gallery/l10n/gallery_localizations.dart';
+import 'package:flutter_gallery/layout/adaptive.dart';
+import 'package:flutter_gallery/pages/demo.dart';
 
 class CategoryListItem extends StatefulWidget {
   const CategoryListItem({

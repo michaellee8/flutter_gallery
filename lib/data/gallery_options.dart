@@ -9,7 +9,7 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/scheduler.dart' show timeDilation;
 import 'package:flutter/services.dart' show SystemChrome, SystemUiOverlayStyle;
-import 'package:gallery/constants.dart';
+import 'package:flutter_gallery/constants.dart';
 
 enum CustomTextDirection {
   localeBased,

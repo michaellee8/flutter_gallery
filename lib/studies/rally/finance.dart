@@ -7,16 +7,16 @@ import 'dart:math' as math;
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 
-import 'package:gallery/data/gallery_options.dart';
-import 'package:gallery/l10n/gallery_localizations.dart';
-import 'package:gallery/layout/adaptive.dart';
-import 'package:gallery/layout/text_scale.dart';
-import 'package:gallery/studies/rally/charts/line_chart.dart';
-import 'package:gallery/studies/rally/charts/pie_chart.dart';
-import 'package:gallery/studies/rally/charts/vertical_fraction_bar.dart';
-import 'package:gallery/studies/rally/colors.dart';
-import 'package:gallery/studies/rally/data.dart';
-import 'package:gallery/studies/rally/formatters.dart';
+import 'package:flutter_gallery/data/gallery_options.dart';
+import 'package:flutter_gallery/l10n/gallery_localizations.dart';
+import 'package:flutter_gallery/layout/adaptive.dart';
+import 'package:flutter_gallery/layout/text_scale.dart';
+import 'package:flutter_gallery/studies/rally/charts/line_chart.dart';
+import 'package:flutter_gallery/studies/rally/charts/pie_chart.dart';
+import 'package:flutter_gallery/studies/rally/charts/vertical_fraction_bar.dart';
+import 'package:flutter_gallery/studies/rally/colors.dart';
+import 'package:flutter_gallery/studies/rally/data.dart';
+import 'package:flutter_gallery/studies/rally/formatters.dart';
 
 class FinancialEntityView extends StatelessWidget {
   const FinancialEntityView({

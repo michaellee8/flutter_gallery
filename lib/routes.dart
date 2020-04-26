@@ -1,13 +1,13 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:gallery/main.dart';
-import 'package:gallery/pages/demo.dart';
-import 'package:gallery/pages/home.dart';
-import 'package:gallery/studies/crane/app.dart';
-import 'package:gallery/studies/fortnightly/app.dart';
-import 'package:gallery/studies/rally/app.dart';
-import 'package:gallery/studies/shrine/app.dart';
-import 'package:gallery/studies/starter/app.dart';
+import 'package:flutter_gallery/main.dart';
+import 'package:flutter_gallery/pages/demo.dart';
+import 'package:flutter_gallery/pages/home.dart';
+import 'package:flutter_gallery/studies/crane/app.dart';
+import 'package:flutter_gallery/studies/fortnightly/app.dart';
+import 'package:flutter_gallery/studies/rally/app.dart';
+import 'package:flutter_gallery/studies/shrine/app.dart';
+import 'package:flutter_gallery/studies/starter/app.dart';
 
 typedef PathWidgetBuilder = Widget Function(BuildContext, Map<String, String>);
 

@@ -4,10 +4,10 @@
 
 import 'package:flutter/material.dart';
 
-import 'package:gallery/layout/adaptive.dart';
-import 'package:gallery/studies/rally/app.dart';
-import 'package:gallery/studies/rally/colors.dart';
-import 'package:gallery/studies/rally/data.dart';
+import 'package:flutter_gallery/layout/adaptive.dart';
+import 'package:flutter_gallery/studies/rally/app.dart';
+import 'package:flutter_gallery/studies/rally/colors.dart';
+import 'package:flutter_gallery/studies/rally/data.dart';
 
 class SettingsView extends StatefulWidget {
   @override

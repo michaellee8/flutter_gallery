@@ -6,12 +6,12 @@ import 'package:intl/intl.dart' as intl;
 import 'package:flutter/material.dart';
 import 'package:flutter/semantics.dart';
 
-import 'package:gallery/data/gallery_options.dart';
-import 'package:gallery/layout/text_scale.dart';
-import 'package:gallery/layout/adaptive.dart';
-import 'package:gallery/studies/rally/colors.dart';
-import 'package:gallery/studies/rally/data.dart';
-import 'package:gallery/studies/rally/formatters.dart';
+import 'package:flutter_gallery/data/gallery_options.dart';
+import 'package:flutter_gallery/layout/text_scale.dart';
+import 'package:flutter_gallery/layout/adaptive.dart';
+import 'package:flutter_gallery/studies/rally/colors.dart';
+import 'package:flutter_gallery/studies/rally/data.dart';
+import 'package:flutter_gallery/studies/rally/formatters.dart';
 
 class RallyLineChart extends StatelessWidget {
   const RallyLineChart({this.events = const <DetailedEventData>[]})

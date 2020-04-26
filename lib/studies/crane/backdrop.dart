@@ -9,15 +9,15 @@ import 'package:flutter/rendering.dart';
 
 import 'package:meta/meta.dart';
 
-import 'package:gallery/data/gallery_options.dart';
-import 'package:gallery/l10n/gallery_localizations.dart';
-import 'package:gallery/layout/adaptive.dart';
-import 'package:gallery/layout/image_placeholder.dart';
-import 'package:gallery/studies/crane/border_tab_indicator.dart';
-import 'package:gallery/studies/crane/backlayer.dart';
-import 'package:gallery/studies/crane/colors.dart';
-import 'package:gallery/studies/crane/header_form.dart';
-import 'package:gallery/studies/crane/item_cards.dart';
+import 'package:flutter_gallery/data/gallery_options.dart';
+import 'package:flutter_gallery/l10n/gallery_localizations.dart';
+import 'package:flutter_gallery/layout/adaptive.dart';
+import 'package:flutter_gallery/layout/image_placeholder.dart';
+import 'package:flutter_gallery/studies/crane/border_tab_indicator.dart';
+import 'package:flutter_gallery/studies/crane/backlayer.dart';
+import 'package:flutter_gallery/studies/crane/colors.dart';
+import 'package:flutter_gallery/studies/crane/header_form.dart';
+import 'package:flutter_gallery/studies/crane/item_cards.dart';
 
 class _FrontLayer extends StatelessWidget {
   const _FrontLayer({

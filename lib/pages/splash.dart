@@ -5,9 +5,9 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:gallery/constants.dart';
-import 'package:gallery/layout/adaptive.dart';
-import 'package:gallery/pages/home.dart';
+import 'package:flutter_gallery/constants.dart';
+import 'package:flutter_gallery/layout/adaptive.dart';
+import 'package:flutter_gallery/pages/home.dart';
 
 const homePeekDesktop = 210.0;
 const homePeekMobile = 60.0;

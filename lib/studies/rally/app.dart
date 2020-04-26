@@ -5,12 +5,12 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-import 'package:gallery/data/gallery_options.dart';
-import 'package:gallery/l10n/gallery_localizations.dart';
-import 'package:gallery/layout/letter_spacing.dart';
-import 'package:gallery/studies/rally/colors.dart';
-import 'package:gallery/studies/rally/home.dart';
-import 'package:gallery/studies/rally/login.dart';
+import 'package:flutter_gallery/data/gallery_options.dart';
+import 'package:flutter_gallery/l10n/gallery_localizations.dart';
+import 'package:flutter_gallery/layout/letter_spacing.dart';
+import 'package:flutter_gallery/studies/rally/colors.dart';
+import 'package:flutter_gallery/studies/rally/home.dart';
+import 'package:flutter_gallery/studies/rally/login.dart';
 
 /// The RallyApp is a MaterialApp with a theme and 2 routes.
 ///

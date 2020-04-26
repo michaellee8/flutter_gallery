@@ -4,12 +4,12 @@
 
 import 'package:flutter/material.dart';
 
-import 'package:gallery/data/gallery_options.dart';
-import 'package:gallery/layout/adaptive.dart';
-import 'package:gallery/layout/image_placeholder.dart';
-import 'package:gallery/layout/text_scale.dart';
-import 'package:gallery/l10n/gallery_localizations.dart';
-import 'package:gallery/studies/fortnightly/shared.dart';
+import 'package:flutter_gallery/data/gallery_options.dart';
+import 'package:flutter_gallery/layout/adaptive.dart';
+import 'package:flutter_gallery/layout/image_placeholder.dart';
+import 'package:flutter_gallery/layout/text_scale.dart';
+import 'package:flutter_gallery/l10n/gallery_localizations.dart';
+import 'package:flutter_gallery/studies/fortnightly/shared.dart';
 
 const _fortnightlyTitle = 'Fortnightly';
 

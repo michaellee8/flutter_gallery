@@ -3,7 +3,7 @@
 // found in the LICENSE file.
 
 import 'package:flutter/material.dart';
-import 'package:gallery/themes/gallery_theme_data.dart';
+import 'package:flutter_gallery/themes/gallery_theme_data.dart';
 import 'transformations_demo_board.dart';
 import 'transformations_demo_color_picker.dart';
 

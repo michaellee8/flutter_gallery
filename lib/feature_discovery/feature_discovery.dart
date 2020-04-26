@@ -5,8 +5,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/scheduler.dart';
 
-import 'package:gallery/feature_discovery/animation.dart';
-import 'package:gallery/feature_discovery/overlay.dart';
+import 'package:flutter_gallery/feature_discovery/animation.dart';
+import 'package:flutter_gallery/feature_discovery/overlay.dart';
 
 /// [Widget] to enforce a global lock system for [FeatureDiscovery] widgets.
 ///

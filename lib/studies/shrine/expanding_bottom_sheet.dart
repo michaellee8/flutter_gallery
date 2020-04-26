@@ -8,14 +8,14 @@ import 'package:flutter/material.dart';
 import 'package:meta/meta.dart';
 import 'package:scoped_model/scoped_model.dart';
 
-import 'package:gallery/layout/adaptive.dart';
-import 'package:gallery/layout/text_scale.dart';
-import 'package:gallery/l10n/gallery_localizations.dart';
-import 'package:gallery/studies/shrine/colors.dart';
-import 'package:gallery/studies/shrine/model/app_state_model.dart';
-import 'package:gallery/studies/shrine/model/product.dart';
-import 'package:gallery/studies/shrine/page_status.dart';
-import 'package:gallery/studies/shrine/shopping_cart.dart';
+import 'package:flutter_gallery/layout/adaptive.dart';
+import 'package:flutter_gallery/layout/text_scale.dart';
+import 'package:flutter_gallery/l10n/gallery_localizations.dart';
+import 'package:flutter_gallery/studies/shrine/colors.dart';
+import 'package:flutter_gallery/studies/shrine/model/app_state_model.dart';
+import 'package:flutter_gallery/studies/shrine/model/product.dart';
+import 'package:flutter_gallery/studies/shrine/page_status.dart';
+import 'package:flutter_gallery/studies/shrine/shopping_cart.dart';
 
 // These curves define the emphasized easing curve.
 const Cubic _accelerateCurve = Cubic(0.548, 0, 0.757, 0.464);

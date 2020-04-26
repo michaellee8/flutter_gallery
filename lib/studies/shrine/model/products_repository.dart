@@ -2,7 +2,7 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
-import 'package:gallery/studies/shrine/model/product.dart';
+import 'package:flutter_gallery/studies/shrine/model/product.dart';
 
 import '../../../l10n/gallery_localizations.dart';
 

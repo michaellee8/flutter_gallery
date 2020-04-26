@@ -6,7 +6,7 @@
 // found in the LICENSE file.
 
 import 'package:flutter/material.dart';
-import 'package:gallery/codeviewer/code_style.dart';
+import 'package:flutter_gallery/codeviewer/code_style.dart';
 
 class CodeSegments {
   static TextSpan bannerDemo(BuildContext context) {
@@ -35,7 +35,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'enum'),
@@ -680,7 +680,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -1526,7 +1526,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'enum'),
@@ -2642,7 +2642,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -2937,7 +2937,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -3333,7 +3333,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -3493,7 +3493,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -3657,7 +3657,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -3865,7 +3865,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -4025,7 +4025,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -4207,7 +4207,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'enum'),
@@ -6490,7 +6490,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -6601,7 +6601,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -6903,7 +6903,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -7202,7 +7202,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -7332,7 +7332,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'const'),
@@ -8795,7 +8795,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -8912,14 +8912,14 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/data/gallery_options.dart\u0027'),
+          text: '\u0027package:flutter_gallery/data/gallery_options.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'import'),
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'enum'),
@@ -10706,7 +10706,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -10907,7 +10907,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -11329,7 +11329,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -11737,7 +11737,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'import'),
@@ -13004,7 +13004,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -13374,7 +13374,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -13784,7 +13784,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -14227,7 +14227,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -14425,7 +14425,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -14782,7 +14782,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -15356,14 +15356,14 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/data/gallery_options.dart\u0027'),
+          text: '\u0027package:flutter_gallery/data/gallery_options.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'import'),
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'import'),
@@ -17701,14 +17701,14 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/data/gallery_options.dart\u0027'),
+          text: '\u0027package:flutter_gallery/data/gallery_options.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'import'),
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'enum'),
@@ -19241,7 +19241,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'enum'),
@@ -20344,7 +20344,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'enum'),
@@ -20598,7 +20598,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(
@@ -21171,7 +21171,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(
@@ -21454,7 +21454,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(
@@ -21847,7 +21847,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(
@@ -22291,7 +22291,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'import'),
@@ -22838,7 +22838,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'enum'),
@@ -23400,7 +23400,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -23745,7 +23745,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -23974,7 +23974,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -24152,7 +24152,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -24305,7 +24305,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -24772,7 +24772,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -25049,7 +25049,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -25257,7 +25257,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -25562,7 +25562,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -27646,7 +27646,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -34027,7 +34027,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/l10n/gallery_localizations.dart\u0027'),
+          text: '\u0027package:flutter_gallery/l10n/gallery_localizations.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),

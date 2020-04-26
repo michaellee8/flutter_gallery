@@ -6,7 +6,7 @@ import 'dart:math';
 
 import 'package:flutter/material.dart';
 
-import 'package:gallery/feature_discovery/animation.dart';
+import 'package:flutter_gallery/feature_discovery/animation.dart';
 
 const contentHeight = 80.0;
 const contentWidth = 300.0;

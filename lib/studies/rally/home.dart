@@ -3,15 +3,15 @@
 // found in the LICENSE file.
 
 import 'package:flutter/material.dart';
-import 'package:gallery/data/gallery_options.dart';
-import 'package:gallery/l10n/gallery_localizations.dart';
-import 'package:gallery/layout/adaptive.dart';
-import 'package:gallery/layout/text_scale.dart';
-import 'package:gallery/studies/rally/tabs/accounts.dart';
-import 'package:gallery/studies/rally/tabs/bills.dart';
-import 'package:gallery/studies/rally/tabs/budgets.dart';
-import 'package:gallery/studies/rally/tabs/overview.dart';
-import 'package:gallery/studies/rally/tabs/settings.dart';
+import 'package:flutter_gallery/data/gallery_options.dart';
+import 'package:flutter_gallery/l10n/gallery_localizations.dart';
+import 'package:flutter_gallery/layout/adaptive.dart';
+import 'package:flutter_gallery/layout/text_scale.dart';
+import 'package:flutter_gallery/studies/rally/tabs/accounts.dart';
+import 'package:flutter_gallery/studies/rally/tabs/bills.dart';
+import 'package:flutter_gallery/studies/rally/tabs/budgets.dart';
+import 'package:flutter_gallery/studies/rally/tabs/overview.dart';
+import 'package:flutter_gallery/studies/rally/tabs/settings.dart';
 
 const int tabCount = 5;
 const int turnsToRotateRight = 1;

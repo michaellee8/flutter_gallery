@@ -5,11 +5,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 
-import 'package:gallery/layout/adaptive.dart';
-import 'package:gallery/layout/highlight_focus.dart';
-import 'package:gallery/layout/image_placeholder.dart';
-import 'package:gallery/studies/crane/model/data.dart';
-import 'package:gallery/studies/crane/model/destination.dart';
+import 'package:flutter_gallery/layout/adaptive.dart';
+import 'package:flutter_gallery/layout/highlight_focus.dart';
+import 'package:flutter_gallery/layout/image_placeholder.dart';
+import 'package:flutter_gallery/studies/crane/model/data.dart';
+import 'package:flutter_gallery/studies/crane/model/destination.dart';
 
 class ItemCards extends StatefulWidget {
   final int index;

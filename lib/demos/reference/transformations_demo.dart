@@ -3,7 +3,7 @@
 // found in the LICENSE file.
 
 import 'package:flutter/material.dart';
-import 'package:gallery/l10n/gallery_localizations.dart';
+import 'package:flutter_gallery/l10n/gallery_localizations.dart';
 import 'transformations_demo_board.dart';
 import 'transformations_demo_edit_board_point.dart';
 import 'transformations_demo_gesture_transformable.dart';

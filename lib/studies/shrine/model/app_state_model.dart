@@ -4,8 +4,8 @@
 
 import 'package:scoped_model/scoped_model.dart';
 
-import 'package:gallery/studies/shrine/model/product.dart';
-import 'package:gallery/studies/shrine/model/products_repository.dart';
+import 'package:flutter_gallery/studies/shrine/model/product.dart';
+import 'package:flutter_gallery/studies/shrine/model/products_repository.dart';
 
 double _salesTaxRate = 0.06;
 double _shippingCostPerItem = 7;

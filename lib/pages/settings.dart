@@ -7,14 +7,14 @@ import 'dart:collection';
 import 'package:collection/collection.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_localized_locales/flutter_localized_locales.dart';
-import 'package:gallery/constants.dart';
-import 'package:gallery/data/gallery_options.dart';
-import 'package:gallery/l10n/gallery_localizations.dart';
-import 'package:gallery/layout/adaptive.dart';
-import 'package:gallery/pages/about.dart' as about;
-import 'package:gallery/pages/backdrop.dart';
-import 'package:gallery/pages/home.dart';
-import 'package:gallery/pages/settings_list_item.dart';
+import 'package:flutter_gallery/constants.dart';
+import 'package:flutter_gallery/data/gallery_options.dart';
+import 'package:flutter_gallery/l10n/gallery_localizations.dart';
+import 'package:flutter_gallery/layout/adaptive.dart';
+import 'package:flutter_gallery/pages/about.dart' as about;
+import 'package:flutter_gallery/pages/backdrop.dart';
+import 'package:flutter_gallery/pages/home.dart';
+import 'package:flutter_gallery/pages/settings_list_item.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 enum _ExpandableSetting {
