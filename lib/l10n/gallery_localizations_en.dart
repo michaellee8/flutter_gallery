@@ -91,7 +91,7 @@ class GalleryLocalizationsEn extends GalleryLocalizations {
   String get cardsDemoTravelDestinationDescription3 => 'Temples';
 
   @override
-  String get homeHeaderGallery => 'Gallery';
+  String get homeHeaderGallery => 'Gallery on Fuchsia by michaellee8';
 
   @override
   String get homeHeaderCategories => 'Categories';
